@@ -1,0 +1,6 @@
+TRAZO OCULTO — CRONOGRAMA POR DÍA
+
+Abrí index.html en el navegador para probar la web completa.
+La sección Cronograma conserva el selector de cuatro días y presenta cada jornada con la jerarquía editorial del cronograma impreso: fecha destacada a la izquierda, actividades en dos columnas, títulos, horarios con línea de puntos, descripciones e imágenes integradas.
+
+La carpeta assets contiene las imágenes originales y sus versiones WebP optimizadas. No separar index.html de la carpeta assets.
